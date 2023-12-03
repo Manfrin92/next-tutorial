@@ -1,5 +1,7 @@
-## Next.js App Router Course - Starter
+# Main Topics in the order they appear
 
-This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
+## Chapter 2
 
-For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
+1. Style with css module
+
+2. Using the clsx library to toggle class names
