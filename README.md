@@ -11,3 +11,9 @@
 1. Using next/font for optimization
 
 2. <Image> component for optimization by default - setting width and height to avoid layout shift
+
+## Chapter 4
+
+1. File-system routing
+
+2. Partial rendering, layout for specific page(s)
