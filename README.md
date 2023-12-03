@@ -27,3 +27,7 @@
 3. In production, whenever <Link> components appear in the browser's viewport, Next.js automatically prefetches the code for the linked route in the background.
 
 4. 'use client' for using hooks
+
+## Chapter 6
+
+1. Setting DB - did a little differently than the tutorial, I'm using local microsoft sql server (the seed.js was updated to accomodate that scenario)
