@@ -31,3 +31,9 @@
 ## Chapter 6
 
 1. Setting DB - did a little differently than the tutorial, I'm using local microsoft sql server (the seed.js was updated to accomodate that scenario)
+
+## Chapter 7
+
+1. Entire page as an async component
+
+2. Fetching and displaying data for async server component
