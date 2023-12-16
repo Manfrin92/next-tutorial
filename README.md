@@ -37,3 +37,7 @@
 1. Entire page as an async component
 
 2. Fetching and displaying data for async server component
+
+## Chapter 8
+
+1. Static and Dynamic Rendering
